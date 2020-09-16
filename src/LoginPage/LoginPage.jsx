@@ -38,7 +38,7 @@ function LoginPage() {
 
     return (
         <div className="col-lg-8 offset-lg-2">
-            <h2>Login</h2>
+            <h2>Login page </h2>
             <form name="form" onSubmit={handleSubmit}>
                 <div className="form-group">
                     <label>Username</label>
